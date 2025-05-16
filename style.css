@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'segoe UI',Tahoma,Verdana,sans-serif;
+}
+
+
+body{
+    background: #f8f9fa;
+   color: #333;
+   line-height: 1.6;
+}
+
+
+.hero{
+    background: linear-gradient(#6a11cb  #2575fc 100%);
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding:  0 20px;
+}
+.hero-contacth1{
+    font: 3rem;
+    margin-bottom: 1rem;
+    
+    
+    }
+    
+    
+    .hero contact p{
+   color: #ffd700;
+    }
+    .hero-contact p{
+        font-size: 1rem;
+        margin-bottom: 2rem;
+    }
+    .btn{
+        display: inlin-block;
+        background: #ffd700;
+        color: #333;
+        padding: 12px 30px;
+        border-radius: 50px;
+        text-decoration: none;
+        font-weight:bold ;
+        transition: all0.3s ease;
+    }
+    section {
+        padding: 80px 20px;
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    h2{
+        text-align: center;
+        font-size: 2.2rem;
+        margin-bottom: 50px;
+    }
+    
